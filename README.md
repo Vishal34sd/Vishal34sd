@@ -34,7 +34,12 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Vishal34sd/Vishal34sd/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-8b7f8a53-7f64-4d78-a290-8e924e4f00f8.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-8b7f8a53-7f64-4d78-a290-8e924e4f00f8.gif" width="100%" />
+</p>
 
 ---
 
