@@ -10,7 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📈 GitHub Activity Graph
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=tokyo-night&hide_border=false)](https://github.com/Vishal34sd)
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=react-dark&hide_border=false&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41)](https://github.com/Vishal34sd)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
