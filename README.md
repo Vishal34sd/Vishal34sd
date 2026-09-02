@@ -15,7 +15,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9A7,100:FFD200&height=4&animation=twinkling" width="100%"/>
 
 ## 👋 About Me
 
@@ -33,7 +33,7 @@ recent_experience: Full Stack Developer Intern @ Iconsteam Global Infrastructure
 - 🌱 Currently sharpening skills in **Next.js**, **TailwindCSS**, and cloud deployment (**AWS / Azure**)
 - ⚡ Fun fact: I enjoy turning messy ideas into clean, working products
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,25:2B86C5,50:784BA0,75:FF3CAC,100:FFD200&height=4&animation=twinkling" width="100%"/>
 
 ## 💼 Experience
 
@@ -50,7 +50,7 @@ Contributed to full-stack web development projects across the MERN stack, collab
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,25:00C9A7,50:2B86C5,75:784BA0,100:FF3CAC&height=4&animation=twinkling" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -92,7 +92,7 @@ Contributed to full-stack web development projects across the MERN stack, collab
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,25:00C9A7,50:FFD200,75:2B86C5,100:784BA0&height=4&animation=twinkling" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -109,22 +109,34 @@ Contributed to full-stack web development projects across the MERN stack, collab
 
 > Replace `your-repo-name-1` / `your-repo-name-2` with your actual repo names to pin your best work here.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B86C5,25:FFD200,50:FF3CAC,75:00C9A7,100:784BA0&height=4&animation=twinkling" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&show_icons=true&theme=github-dark-green&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&layout=compact&theme=github-dark-green&hide_border=true" width="35%"/>
 
-<img src="https://streak-stats.demolab.com/?user=Vishal34sd&theme=tokyonight&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=Vishal34sd&theme=github-dark-green&hide_border=true" width="60%"/>
 
 </div>
 
-<br/>
+### 🟩 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/39d353/Vishal34sd" width="90%"/>
+
+</div>
+
+> 💡 For an even more eye-catching **animated** green-on-black contribution snake, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it generates a snake that "eats" your contribution squares and updates automatically on every push.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:784BA0,25:FF3CAC,50:00C9A7,75:FFD200,100:2B86C5&height=4&animation=twinkling" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -138,7 +150,7 @@ I'm always open to collaborating on interesting full-stack / open-source project
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,25:784BA0,50:FF3CAC,75:2B86C5,100:00C9A7&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=Vishal34sd&icon=4&color=7" />
