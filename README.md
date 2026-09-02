@@ -1,43 +1,149 @@
-# 💫 About Me:
-# 👋 Hello, I'm Vishal Dubey!<br><br>🎓 I'm a BTech CSE student passionate about **Web Development** and **Open Source**.  <br>💻 Currently exploring **MERN stack** (MongoDB, Express.js, React, Node.js)  <br>🚀 Actively building projects and learning new technologies to sharpen my skills.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1572B6,100:61DAFB&height=220&section=header&text=Vishal%20Dubey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
+<a href="https://github.com/Vishal34sd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Ex-Full+Stack+Intern+%40+Iconsteam;Open+Source+Contributor;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+<br/>
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white)
+<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Vishal34sd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+</div>
 
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+<br/>
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
+## 👋 About Me
 
-### 📌 Languages / Others
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+```yaml
+name: Vishal Dubey
+role: Full Stack Developer (MERN)
+education: B.Tech, Computer Science & Engineering
+current_focus: Building scalable full-stack apps & contributing to open source
+recent_experience: Full Stack Developer Intern @ Iconsteam Global Infrastructure
+```
 
+- 🎓 B.Tech CSE student passionate about **Web Development** and **Open Source**
+- 💼 Completed a **Full Stack Developer Internship** at **Iconsteam Global Infrastructure** (May 2026 – Aug 2026), contributing to full-stack web development projects
+- 💻 Building and shipping projects using the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 🌱 Currently sharpening skills in **Next.js**, **TailwindCSS**, and cloud deployment (**AWS / Azure**)
+- ⚡ Fun fact: I enjoy turning messy ideas into clean, working products
 
-# 📊 GitHub Stats:
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vishal34sd&theme=aura_dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## 💼 Experience
 
-### 📈 GitHub Activity Graph
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=react-dark&hide_border=false&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41)](https://github.com/Vishal34sd)
+<table>
+<tr>
+<td width="120" align="center">🏢</td>
+<td>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Full Stack Developer Intern** — Iconsteam Global Infrastructure
+*May 2026 – Aug 2026 (3 months)*
+Contributed to full-stack web development projects across the MERN stack, collaborating on features end-to-end from database design to UI implementation.
 
----
-[![](https://visitcount.itsvg.in/api?id=Vishal34sd&icon=4&color=7)](https://visitcount.itsvg.in)
+</td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+**Languages & Data**
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Vishal34sd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Vishal34sd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> Replace `your-repo-name-1` / `your-repo-name-2` with your actual repo names to pin your best work here.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Vishal34sd&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting full-stack / open-source projects — feel free to reach out!
+
+<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=Vishal34sd&icon=4&color=7" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1572B6,100:0d1117&height=120&section=footer" width="100%"/>
+
+<!-- Proudly upgraded with ❤️ -->
