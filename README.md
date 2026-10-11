@@ -1,20 +1,28 @@
 <div align="center">
 
-<a href="https://github.com/Vishal34sd"><img src="./assets/header.svg?v=2" alt="Vishal Dubey - AI-Full Stack Developer (MERN)" width="100%"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1572B6,100:61DAFB&height=240&section=header&text=Vishal%20Dubey&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/Vishal34sd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=61DAFB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Ex-Full+Stack+Intern+%40+Iconsteam;Open+Source+Contributor;GSSoC+2026+Mentor;AWS+Certified+Cloud+Practitioner;Turning+Messy+Ideas+Into+Clean+Products;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://linkedin.com/in/dubey-vishal01"><img src="./assets/badges/linkedin.svg?v=2" alt="LinkedIn"/></a>
-<a href="mailto:dubeyvishal714@gmail.com"><img src="./assets/badges/email.svg?v=2" alt="Email"/></a>
-<a href="https://github.com/Vishal34sd"><img src="./assets/badges/github.svg?v=2" alt="GitHub"/></a>
-<a href="https://leetcode.com/u/vishal-dubey07"><img src="./assets/badges/leetcode.svg?v=2" alt="LeetCode"/></a>
-<a href="#"><img src="./assets/badges/portfolio.svg?v=2" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/dubey-vishal01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dubeyvishal714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Vishal34sd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/vishal-dubey07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
-<img src="./assets/divider-1.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9A7,100:FFD200&height=4&animation=twinkling" width="100%"/>
 
 ## 👋 About Me
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00C9A7&center=true&vCenter=true&width=700&lines=%E2%9A%A1+I+enjoy+turning+messy+ideas+into+clean%2C+working+products" alt="Fun fact" />
+</div>
 
 ```yaml
 name: Vishal Dubey
@@ -32,11 +40,11 @@ recent_experience: Full Stack Developer Intern @ Iconsteam Global Infrastructure
 
 <div align="center">
 
-<img src="./assets/id-dashboard.svg?v=2" alt="Developer ID" width="100%"/>
+![Developer ID](./assets/id-dashboard.svg?v=1)
 
 </div>
 
-<img src="./assets/divider-2.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,25:2B86C5,50:784BA0,75:FF3CAC,100:FFD200&height=4&animation=twinkling" width="100%"/>
 
 ## 💼 Experience
 
@@ -53,42 +61,80 @@ Contributed to full-stack web development projects across the MERN stack, collab
 </tr>
 </table>
 
-<img src="./assets/divider-3.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,25:00C9A7,50:2B86C5,75:784BA0,100:FF3CAC&height=4&animation=twinkling" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="./assets/stack.svg?v=2" alt="Tech stack orbit" width="100%"/>
+![Stack](./assets/stack.svg?v=1)
 
-<img src="./assets/tech-badges.svg?v=2" alt="Frontend, Backend, Databases, Tools and Languages" width="100%"/>
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+**Languages & Data**
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </div>
 
-<img src="./assets/divider-4.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,25:00C9A7,50:FFD200,75:2B86C5,100:784BA0&height=4&animation=twinkling" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://www.npmjs.com/package/@dubeyvishal/orbital-cli"><img src="./assets/project-orbital.svg?v=2" alt="Orbital CLI" width="32%"/></a>
-<a href="https://github.com/Vishal34sd/Expense-tracker_repo"><img src="./assets/project-smartexpense.svg?v=2" alt="SmartExpense" width="32%"/></a>
-<a href="https://github.com/Vishal34sd"><img src="./assets/project-schedulr.svg?v=2" alt="Schedulr" width="32%"/></a>
+<a href="https://github.com/Vishal34sd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Vishal34sd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-2&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
-> Replace the links above with your actual repo URLs to point each card at your best work.
+> Replace `your-repo-name-1` / `your-repo-name-2` with your actual repo names to pin your best work here.
 
-<img src="./assets/divider-5.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B86C5,25:FFD200,50:FF3CAC,75:00C9A7,100:784BA0&height=4&animation=twinkling" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./assets/stats.svg?v=2" alt="GitHub stats" width="49%"/>
-<img src="./assets/langs.svg?v=2" alt="Top languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&show_icons=true&theme=github-dark-green&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&layout=compact&theme=github-dark-green&hide_border=true" width="35%"/>
 
-<img src="./assets/streak.svg?v=2" alt="Contribution streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Vishal34sd&theme=github-dark-green&hide_border=true" width="60%"/>
 
 </div>
 
@@ -96,7 +142,7 @@ Contributed to full-stack web development projects across the MERN stack, collab
 
 <div align="center">
 
-<img src="./assets/trophies.svg?v=2" alt="Achievements" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vishal34sd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="95%"/>
 
 </div>
 
@@ -104,15 +150,24 @@ Contributed to full-stack web development projects across the MERN stack, collab
 
 <div align="center">
 
-<img src="./assets/contrib-graph.svg?v=2" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" width="90%"/>
 
-<img src="./assets/activity-graph.svg?v=2" alt="Activity graph" width="100%"/>
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/39d353/Vishal34sd" width="90%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake.svg" width="90%"/>
+</picture>
 
 </div>
 
 > 💡 For an even more eye-catching **animated** green-on-black contribution snake, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it generates a snake that "eats" your contribution squares and updates automatically on every push.
 
-<img src="./assets/divider-6.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:784BA0,25:FF3CAC,50:00C9A7,75:FFD200,100:2B86C5&height=4&animation=twinkling" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -120,14 +175,18 @@ Contributed to full-stack web development projects across the MERN stack, collab
 
 I'm always open to collaborating on interesting full-stack / open-source projects — feel free to reach out!
 
-<a href="https://linkedin.com/in/dubey-vishal01"><img src="./assets/badges/linkedin.svg?v=2" alt="LinkedIn"/></a>
-<a href="mailto:dubeyvishal714@gmail.com"><img src="./assets/badges/email.svg?v=2" alt="Email"/></a>
-<a href="https://twitter.com/your-handle"><img src="./assets/badges/twitter.svg?v=2" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/dubey-vishal01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dubeyvishal714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 </div>
 
-<img src="./assets/divider-7.svg?v=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,25:784BA0,50:FF3CAC,75:2B86C5,100:00C9A7&height=4&animation=twinkling" width="100%"/>
 
-<img src="./assets/footer.svg?v=2" width="100%" alt="Thanks for visiting"/>
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=Vishal34sd&icon=4&color=7" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1572B6,100:0d1117&height=120&section=footer" width="100%"/>
 
 <!-- Proudly upgraded with ❤️ -->
