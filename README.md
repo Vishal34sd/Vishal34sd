@@ -92,27 +92,7 @@ open_to:   Internships · Open Source · Collaboration
 
 <img src="https://streak-stats.demolab.com?user=Vishal34sd&theme=radical&hide_border=true" alt="Streak"/>
 
-### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal34sd&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
-
-### 🟩 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=react-dark&hide_border=true&bg_color=070b16&color=247bff&line=ff354f&point=f3f5fa" width="100%" alt="Activity graph"/>
-
-<img src="https://ghchart.rshah.org/247bff/Vishal34sd" width="100%" alt="Contribution chart"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake.svg"/>
-</picture>
-
-<sub>💡 The snake needs the [Platane/snk](https://github.com/Platane/snk) GitHub Action to generate the `output` branch.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff354f,100:247bff&height=2&section=header" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
 
