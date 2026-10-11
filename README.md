@@ -16,30 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=2&section=header" width="100%" alt=""/>
 
-## 👋 About Me
 
-<table>
-<tr>
-<td width="220" align="center" valign="top">
-<img src="./assets/profile_pic.jpg" alt="Profile avatar" width="200"/>
-</td>
-<td valign="top">
-
-```yaml
-role:      Full Stack Developer
-focus:     MERN · npm CLIs · AI-powered features
-college:   KIET · CSE 2028
-open_to:   Internships · Open Source · Collaboration
-```
-
-- 🔭 Building full-stack products and developer tools
-- 🌱 Mentoring in open source (GSSoC 2026) and coordinating at Innogeeks
-- 🧩 Solving problems on LeetCode (250+ solved)
-- ⚡ Ask me about MERN, CLIs, and AWS
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="./assets/id-dashboard.svg?v=1" alt="Developer ID and stats" width="100%"/>
