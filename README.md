@@ -1,344 +1,135 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vishal Dubey — Full Stack Developer" />
+<img src="./assets/hero.svg" alt="Vishal Dubey - Full Stack Developer" width="100%"/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1572B6,100:61DAFB&height=240&section=header&text=Vishal%20Dubey&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
-
-
-<a href="https://github.com/Vishal34sd">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=61DAFB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Ex-Full+Stack+Intern+%40+Iconsteam;Open+Source+Contributor;GSSoC+2026+Mentor;AWS+Certified+Cloud+Practitioner;Turning+Messy+Ideas+Into+Clean+Products;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
-
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=247BFF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Open+Source+Contributor+%26+Mentor;npm+CLI+%26+Tooling+Builder;AWS+Certified+Cloud+Practitioner;Turning+messy+ideas+into+clean+products" alt="Typing SVG" /></a>
 
 <br/>
 
-
-<a href="https://linkedin.com/in/dubey-vishal01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:dubeyvishal714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="https://github.com/Vishal34sd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<a href="https://leetcode.com/u/vishal-dubey07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/dubey-vishal01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dubeyvishal714@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Vishal34sd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/vishal-dubey07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=2&section=header" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9A7,100:FFD200&height=4&animation=twinkling" width="100%"/>
-
-
-## 👋 About Me**
-
-
-<div align="center">
-
-<img src="./assets/about-life.svg" width="100%" alt="About me illustration" />
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00C9A7&center=true&vCenter=true&width=700&lines=%E2%9A%A1+I+enjoy+turning+messy+ideas+into+clean%2C+working+products" alt="Fun fact" />
-
-</div>
-
-
-``yaml
-
-name: Vishal Dubey
-
-role: Full Stack Developer (MERN)
-
-education: B.Tech, Computer Science & Engineering
-
-current_focus: Building scalable full-stack apps & contributing to open source
-
-recent_experience: Full Stack Developer Intern @ Iconsteam Global Infrastructure
-
-```
-
-
-\-   🎓 B.Tech CSE student passionate about ****Web Development**** and
-
-    ****Open Source****
-
-\-   💼 Completed a ****Full Stack Developer Internship**** at **Iconsteam
-
-    Global Infrastructure** (May 2026 -- Aug 2026), contributing to
-
-    full-stack web development projects
-
-\-   💻 Building and shipping projects using the ****MERN stack**** (MongoDB,
-
-    Express.js, React, Node.js)
-
-\-   🌱 Currently sharpening skills in ****Next.js****, ****TailwindCSS****, and
-
-    cloud deployment (****AWS / Azure****)
-
-\-   ⚡ Fun fact: I enjoy turning messy ideas into clean, working
-
-    products
-
-
-<div align="center">
-
-![Developer ID](./assets/id-dashboard.svg)
-
-</div>
-
-
-`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,25:2B86C5,50:784BA0,75:FF3CAC,100:FFD200&height=4&animation=twinkling" width="100%"/>
-
-
-## 💼 Experience
-
-
-## 💼 Experience
-
+## 👋 About Me
 
 <table>
-
 <tr>
+<td width="220" align="center" valign="top">
+<img src="./assets/profile_pic.jpg" alt="Profile avatar" width="200"/>
+</td>
+<td valign="top">
 
-<td width="120" align="center">
+```yaml
+role:      Full Stack Developer
+focus:     MERN · npm CLIs · AI-powered features
+college:   KIET · CSE 2028
+open_to:   Internships · Open Source · Collaboration
+```
 
-  <img
-
-    src="./assets/iconsteam.jpg"
-
-    alt="Iconsteam Global Infrastructure"
-
-    width="85"
-
-  />
+- 🔭 Building full-stack products and developer tools
+- 🌱 Mentoring in open source (GSSoC 2026) and coordinating at Innogeeks
+- 🧩 Solving problems on LeetCode (250+ solved)
+- ⚡ Ask me about MERN, CLIs, and AWS
 
 </td>
-
-<td>
-
-
-**Full Stack Developer Intern** — Iconsteam Global Infrastructure
-
-
-*May 2026 – Aug 2026 (3 months)*
-
-
-Contributed to full-stack web development projects across the MERN stack, collaborating on features end-to-end from database design to UI implementation.
-
-
-</td>
-
 </tr>
-
 </table>
 
+<div align="center">
+<img src="./assets/id-dashboard.svg?v=1" alt="Developer ID and stats" width="100%"/>
+<img src="./assets/about-life.svg?v=1" alt="Capabilities and highlights" width="100%"/>
+</div>
 
-``
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff354f,100:247bff&height=2&section=header" width="100%" alt=""/>
 
-`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,25:00C9A7,50:2B86C5,75:784BA0,100:FF3CAC&height=4&animation=twinkling" width="100%"/>
+## 💼 Experience
 
+<table>
+<tr>
+<td width="90" align="center"><img src="./assets/iconsteam.jpg" alt="Iconsteam Global Infrastructure" width="72"/></td>
+<td>
 
-## 🛠️ Tech Stack**
+**Full Stack Developer Intern** · Iconsteam Global Infrastructure
+<br/>📅 May 2026 – Aug 2026
 
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=2&section=header" width="100%" alt=""/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="./assets/stack.svg?v=1" alt="Tech stack" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff354f,100:247bff&height=2&section=header" width="100%" alt=""/>
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-![Stack](./assets/stack.svg)
+<a href="https://github.com/Vishal34sd/your-repo-name-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-1&theme=radical&hide_border=true" alt="Project 1"/></a>
+<a href="https://github.com/Vishal34sd/your-repo-name-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-2&theme=radical&hide_border=true" alt="Project 2"/></a>
 
-
-****Frontend**** <br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-
-****Backend**** <br/>
-
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-
-
-****Databases**** <br/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-
-****Tools & Platforms**** <br/>
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-
-****Languages & Data**** <br/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<sub>↑ Replace `your-repo-name-1` / `your-repo-name-2` with your real repository names.</sub>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=2&section=header" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,25:00C9A7,50:FFD200,75:2B86C5,100:784BA0&height=4&animation=twinkling" width="100%"/>
-
-
-## 🚀 Featured Projects**
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Vishal34sd/Smart-CLI-Based-Agent">
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=Smart-CLI-Based-Agent&theme=tokyonight&hide_border=true" alt="Smart CLI-Based Agent repository" />
+<img src="https://streak-stats.demolab.com?user=Vishal34sd&theme=radical&hide_border=true" alt="Streak"/>
 
-</a> <a href="https://github.com/Vishal34sd/Expense-tracker_repo">
+### 🏆 Trophies
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=Expense-tracker_repo&theme=tokyonight&hide_border=true" alt="Expense Tracker repository" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vishal34sd&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 
-</a>
+### 🟩 Contribution Graph
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=react-dark&hide_border=true&bg_color=070b16&color=247bff&line=ff354f&point=f3f5fa" width="100%" alt="Activity graph"/>
 
-
-> Replace Smart-CLI-Based-Agent` / `Expense-tracker_repo` with your actual repo
-
-> names to pin your best work here.
-
-
-`<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B86C5,25:FFD200,50:FF3CAC,75:00C9A7,100:784BA0&height=4&animation=twinkling" width="100%"/>
-
-
-## 📊 GitHub Stats**
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal34sd&show_icons=true&theme=github-dark-green&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal34sd&layout=compact&theme=github-dark-green&hide_border=true" width="35%"/>
-
-
-<img src="https://streak-stats.demolab.com/?user=Vishal34sd&theme=github-dark-green&hide_border=true" width="60%"/>
-
-</div>
-
-
-### 🏆 Trophies**
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal34sd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="95%"/>
-
-</div>
-
-
-### 🟩 Contribution Graph**
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal34sd&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" width="90%"/>
-
-
-<br/><br/>
-
-
-<img src="https://ghchart.rshah.org/39d353/Vishal34sd" width="90%"/>
-
-
-<br/><br/>
-
+<img src="https://ghchart.rshah.org/247bff/Vishal34sd" width="100%" alt="Contribution chart"/>
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake-dark.svg"/>
-
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake.svg" width="90%"/>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vishal34sd/Vishal34sd/output/github-snake.svg"/>
 </picture>
 
+<sub>💡 The snake needs the [Platane/snk](https://github.com/Platane/snk) GitHub Action to generate the `output` branch.</sub>
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff354f,100:247bff&height=2&section=header" width="100%" alt=""/>
 
-> 💡 For an even more eye-catching ****animated**** green-on-black
+## 🤝 Let's Connect
 
-> contribution snake, add the
+<div align="center">
+<img src="./assets/connect.svg" alt="Contact cards" width="100%"/>
 
-> [Platane/snk](https://github.com/Platane/snk) GitHub Action to your
-
-> profile repo --- it generates a snake that "eats" your contribution
-
-> squares and updates automatically on every push.
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:784BA0,25:FF3CAC,50:00C9A7,75:FFD200,100:2B86C5&height=4&animation=twinkling" width="100%"/>
-
-
-## 🤝 Let's Connect**
-
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</div>
 
 <div align="center">
 
-<img src="./assets/connect.svg" width="100%" alt="Let's connect illustration" />
+<img src="https://visitcount.itsvg.in/api?id=Vishal34sd&label=Profile%20Views&color=5&icon=0&pretty=true" alt="Visitors"/>
 
-
-I'm always open to collaborating on interesting full-stack / open-source
-
-projects --- feel free to reach out!
-
-
-<a href="https://linkedin.com/in/dubey-vishal01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:dubeyvishal714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:247bff,100:ff354f&height=100&section=footer" width="100%" alt=""/>
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD200,25:784BA0,50:FF3CAC,75:2B86C5,100:00C9A7&height=4&animation=twinkling" width="100%"/>
-
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Vishal34sd&icon=4&color=7" />
-
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1572B6,100:0d1117&height=120&section=footer" width="100%"/>
-
-
-```
+<!-- Proudly upgraded with ❤️ -->
