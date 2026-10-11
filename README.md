@@ -2,7 +2,6 @@
 
 <img src="./assets/hero.svg" alt="Vishal Dubey - Full Stack Developer" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=247BFF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Open+Source+Contributor+%26+Mentor;npm+CLI+%26+Tooling+Builder;AWS+Certified+Cloud+Practitioner;Turning+messy+ideas+into+clean+products" alt="Typing SVG" /></a>
 
 <br/>
 
