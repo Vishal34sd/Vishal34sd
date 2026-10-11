@@ -76,10 +76,8 @@ open_to:   Internships · Open Source · Collaboration
 
 <div align="center">
 
-<a href="https://github.com/Vishal34sd/your-repo-name-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-1&theme=radical&hide_border=true" alt="Project 1"/></a>
-<a href="https://github.com/Vishal34sd/your-repo-name-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=your-repo-name-2&theme=radical&hide_border=true" alt="Project 2"/></a>
-
-<sub>↑ Replace `your-repo-name-1` / `your-repo-name-2` with your real repository names.</sub>
+<a href="https://github.com/Vishal34sd/Smart-CLI-Based-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=Smart-CLI-Based-Agent&theme=radical&hide_border=true" alt="Project 1"/></a>
+<a href="https://github.com/Vishal34sd/Expense-tracker_repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=Expense-tracker_repo&theme=radical&hide_border=true" alt="Project 2"/></a>
 
 </div>
 
