@@ -26,17 +26,9 @@
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="90" align="center"><img src="./assets/iconsteam.jpg" alt="Iconsteam Global Infrastructure" width="72"/></td>
-<td>
-
-**Full Stack Developer Intern** · Iconsteam Global Infrastructure
-<br/>📅 May 2026 – Aug 2026
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/experience.svg?v=1" alt="Experience" width="100%"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=2&section=header" width="100%" alt=""/>
 
@@ -51,10 +43,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Vishal34sd/Smart-CLI-Based-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=Smart-CLI-Based-Agent&theme=radical&hide_border=true" alt="Project 1"/></a>
-<a href="https://github.com/Vishal34sd/Expense-tracker_repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal34sd&repo=Expense-tracker_repo&theme=radical&hide_border=true" alt="Project 2"/></a>
-
+<img src="./assets/featured.svg?v=1" alt="Featured Projects" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=2&section=header" width="100%" alt=""/>
