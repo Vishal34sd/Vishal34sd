@@ -64,14 +64,6 @@
 <div align="center">
 <img src="./assets/connect.svg" alt="Contact cards" width="100%"/>
 
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</div>
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Vishal34sd&label=Profile%20Views&color=5&icon=0&pretty=true" alt="Visitors"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:247bff,100:ff354f&height=100&section=footer" width="100%" alt=""/>
 
 </div>
 
